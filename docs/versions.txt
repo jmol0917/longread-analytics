@@ -1,0 +1,8 @@
+DATE: Mon Feb  9 11:46:01 AEDT 2026
+
+minimap2: 2.30-r1287
+samtools: samtools 1.23
+sniffles: Sniffles2, Version 2.7.2
+modkit: mod_kit 0.2.6
+NanoPlot: NanoPlot 1.46.2
+python: Python 3.11.14
