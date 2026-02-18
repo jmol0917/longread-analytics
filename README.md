@@ -1,4 +1,4 @@
-# Long-read sequencing analytics portfolio (ONT-focused)
+# Long-read sequencing analytics portfolio
 
 This repository demonstrates a small, reproducible long-read analytics workflow built as a skills portfolio:
 - Read QC
@@ -8,7 +8,11 @@ This repository demonstrates a small, reproducible long-read analytics workflow 
 - Reporting (tables + figures)
 
 ## Status
-Work in progress.
+What’s implemented so far:
+  FASTQ QC + reporting
+  FASTQ → BAM alignment pipeline
+  SV calling + summary tables + plots
+  Modified-base BAM processing + chr1 CpG pileup + QC plots + summary report
 
 ## Repo structure
 - `data/`
