@@ -1,0 +1,6 @@
+Sites (chr1 CpG): 1397156
+Coverage median: 1.00
+Coverage mean: 1.60
+Beta mean: 0.0000
+Beta median: 0.0000
+Beta percentiles (1,5,25,50,75,95,99): 0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000

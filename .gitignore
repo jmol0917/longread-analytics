@@ -1,0 +1,40 @@
+# Data and big outputs
+data/raw/
+data/interim/
+results/
+workflow/logs/
+
+# Reference indexes
+data/refs/**/*.mmi
+data/refs/**/*.fai
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+
+# Large raw data / references
+data/raw/
+data/refs/*.mmi
+data/refs/*.fa
+data/refs/*.fa.gz
+data/refs/*.fai
+
+# Alignment / modbase binaries
+*.bam
+*.bai
+
+# Big intermediate results (keep summaries instead)
+results/modbases/*.bed
+results/modbases/*.bed.gz
+results/modbases/*.tsv
+results/modbases/*.tsv.gz
+
+# Temporary / misc
+__pycache__/
+*.pyc
+*.log
+
